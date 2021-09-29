@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Github Statistics 📊
+
+<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonishreyas&show_icons=true&hide_border=true"/>
+
+
+![Profile views](https://gpvc.arturio.dev/sonishreyas)  <img src="https://img.shields.io/github/followers/sonishreyas?label=Follow" style=" float:left, margin-right:10px" />
+
+
