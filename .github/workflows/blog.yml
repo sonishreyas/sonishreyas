@@ -10,12 +10,12 @@ jobs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
       - name: "📚  Hashnode Updater"
-        uses: "shreyassoni/action-hashnode-blog@main"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          feed_list: "https://shreyassoni.hashnode.dev/rss.xml"
+          USERNAME: "shreyassoni" # Hashnode Username
+          COUNT: 5 # MAX Visisble
+          FILE: "88ca4064876a7971a1c61e8e19e42b98" # GIST ID
+          TYPE: "gist"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }} # Personal Access Token With Gists Scope
