@@ -37,9 +37,9 @@
 <a href="https://shreyassoni.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="left" /> </a> <br/>
 
 <a href="https://github.com/sonishreyas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonishreyas&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="Shreyas's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonishreyas&show_icons=true&line_height=27&count_private=true&theme=github_dark&hide_border=true" alt="Shreyas's GitHub Stats" />
 <tr/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sonishreyas&theme=github-dark-blue" alt="Shreyas's GitHub Streaks" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sonishreyas&theme=github-dark-blue&hide_border=true" alt="Shreyas's GitHub Streaks" />
 </a>
                                                                                                                                                  
                                                                                                                                                  
