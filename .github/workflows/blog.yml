@@ -14,9 +14,8 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+        uses: "shreyassoni/action-hashnode-blog@main"
         with:
-          USERNAME: "sonishreyas"
-          COUNT: 10
+          feed_list: "https://shreyassoni.hashnode.dev/rss.xml"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
