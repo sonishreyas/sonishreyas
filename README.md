@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Shreyas Soni</h1>
-<h3 align="left">A Software Developer from India</h3>
+<h3 align="left">I am a Full Stack Developer from India </h3>
 
 ## About Me
 
@@ -19,7 +19,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="30" height="30" />&nbsp;
                                                                                                                       <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" height="40" />&nbsp;
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30" />&nbsp;          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30" />&nbsp;              <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="30" height="30" />&nbsp;          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30" height="30" />&nbsp;            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="30" height="30" />&nbsp;                  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" width="30" height="30" />&nbsp;                                                                
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30" />&nbsp;          <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30" height="30" />&nbsp;
+<img src="https://img.icons8.com/color/480/undefined/mongodb.png" width="30" height="30" />&nbsp;  
+<img src="https://img.icons8.com/color/480/undefined/postgreesql.png" width="30" height="30" />&nbsp; 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30" height="30" />&nbsp;          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="30" height="30" />&nbsp;                  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" width="30" height="30" />&nbsp;                                   
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png" width="30" height="30" />&nbsp;
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="30" height="30" />&nbsp;                            
                                                                                                    
 </div>
 
@@ -37,9 +42,10 @@
 <a href="https://shreyassoni.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="left" /> </a> <br/>
 
 <a href="https://github.com/sonishreyas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonishreyas&show_icons=true&line_height=27&count_private=true&theme=github_dark&hide_border=true" alt="Shreyas's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonishreyas&show_icons=true&line_height=27&count_private=true&theme=github_dark&hide_border=true" alt="Shreyas's GitHub Stats" height="200"/>
 <tr/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sonishreyas&theme=github-dark-blue&hide_border=true" alt="Shreyas's GitHub Streaks" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sonishreyas&theme=github-dark-blue&hide_border=true" height="200" alt="Shreyas's GitHub Streaks" />
+
 </a>
                                                                                                                                                  
                                                                                                                                                  
