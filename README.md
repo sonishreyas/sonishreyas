@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Shreyas Soni</h1>
 <h3 align="left">A Software Developer from India</h3>
 
-## About Me :
+## About Me
 
 - Currently working as a Software Developer at Barclays and building a Data Quality dashboard in React for Fraud Data Team.
 - Improving my skills in **React** by building real world projects
 - Learning Full Stack development from NeogCamp.
 
-## Languages and Tools :
+## Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
@@ -19,11 +19,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="30" height="30" />&nbsp;
                                                                                                                       <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" height="40" />&nbsp;
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30" />&nbsp;          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30" />&nbsp;              <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="30" height="30" />&nbsp;          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30" height="30" />&nbsp;                                                                                              
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30" />&nbsp;          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30" />&nbsp;              <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="30" height="30" />&nbsp;          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30" height="30" />&nbsp;            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="30" height="30" />&nbsp;                  <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" width="30" height="30" />&nbsp;                                                                
                                                                                                    
 </div>
 
-## My Latest Blog Posts 👇
+## My Latest Blog Posts
 
 - [Debouncing and Throttling](https://shreyassoni.hashnode.dev/debouncing-and-throttling)
 - [Temporal Dead Zone](https://shreyassoni.hashnode.dev/temporal-dead-zone)
