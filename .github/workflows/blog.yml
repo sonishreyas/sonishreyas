@@ -1,0 +1,22 @@
+name: "📚 Blog Updater"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *" # Runs Every Month
+
+jobs:
+  update_blogs:
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: "sonishreyas"
+          COUNT: 10
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
